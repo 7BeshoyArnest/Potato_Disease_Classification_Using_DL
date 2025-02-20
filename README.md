@@ -1,2 +1,2 @@
-this repository show some End to End machine learning projects that solve popular problems like heart issue , customer segmentaion, or other problems
-using popular machine laerning algorithms like linear regression, logistic regression, and Decision tree....etc
+End-to-End Machine Learning Projects
+This repository contains a collection of end-to-end machine learning projects, covering the entire workflow from data collection and preprocessing to model training, evaluation, and deployment. Each project follows best practices to ensure reproducibility and scalability.
