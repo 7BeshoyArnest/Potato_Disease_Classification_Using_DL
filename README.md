@@ -3,7 +3,9 @@ This project focuses on building a deep learning model to automatically classify
 and Healthy. The goal is to assist farmers and agricultural professionals in diagnosing plant diseases efficiently and accurately through image-based predictions.
 
 📊 Dataset
+
 Source: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 Categories:
 
 Early Blight
@@ -15,6 +17,7 @@ Healthy
 Format: RGB images of potato leaves
 
 🧠 Model Architecture
+
 Base Model: Convolutional Neural Network (CNN)
 
 Layers Used:
@@ -38,6 +41,7 @@ Optimizer: Adam
 Metrics: Accuracy, Precision, Recall
 
 🚀 Results
+
 Training Accuracy: ~98%
 
 Validation Accuracy: ~95%
@@ -47,6 +51,7 @@ Test Accuracy: ~94%
 Confusion matrix and classification report were used to assess performance on each class.
 
 📌 Key Insights
+
 Data augmentation helped prevent overfitting and improved generalization.
 
 The model successfully distinguished between Early and Late Blight with high precision.
@@ -54,6 +59,7 @@ The model successfully distinguished between Early and Late Blight with high pre
 The CNN was able to generalize well despite the small dataset size due to careful preprocessing and regularization.
 
 🛠️ Tools & Libraries
+
 Python
 
 TensorFlow / Keras
