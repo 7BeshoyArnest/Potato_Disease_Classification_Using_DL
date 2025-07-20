@@ -1,4 +1,5 @@
 🥔 Potato Disease Classification using Deep Learning
+
 This project focuses on building a deep learning model to automatically classify potato plant leaf images into three categories: Early Blight, Late Blight, 
 and Healthy. The goal is to assist farmers and agricultural professionals in diagnosing plant diseases efficiently and accurately through image-based predictions.
 
